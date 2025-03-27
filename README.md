@@ -1,10 +1,10 @@
 # WEB102 Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Adam Kaderbhai**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**GrowFundMe** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **50** hours spent in total
 
 ## Required Features
 
@@ -15,30 +15,26 @@ The following **required** functionality is completed:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img
+src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlnZTdibTlvcnVmMW5kdXdwczR0NWN1YjJsbGQzN2czOWNtNm91NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmWlM6Bti3XkkOoV7o/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Giphy
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Hosting a website using a python server - sometimes the changes would not reflect on the webpage. I had to start and shut the server multiple times.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Adam Kaderbhai]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
