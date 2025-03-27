@@ -25,8 +25,8 @@ src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlnZTdibTlvcnVmMW5kdXdwc
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... 
-ezgif
-Giphy
+- ezgif
+- Giphy
 
 ## Notes
 
