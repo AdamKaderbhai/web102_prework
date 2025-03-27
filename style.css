@@ -20,6 +20,7 @@ body {
 }
 
 .stats-container {
+
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -58,6 +59,8 @@ body {
     width: 300px;
     text-align: center;
     border-radius: 7px;
+  
+
 }
 
 .game-card:hover {
