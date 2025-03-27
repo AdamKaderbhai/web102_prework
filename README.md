@@ -24,7 +24,8 @@ Here's a walkthrough of implemented features:
 src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjlnZTdibTlvcnVmMW5kdXdwczR0NWN1YjJsbGQzN2czOWNtNm91NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmWlM6Bti3XkkOoV7o/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... 
+ezgif
 Giphy
 
 ## Notes
